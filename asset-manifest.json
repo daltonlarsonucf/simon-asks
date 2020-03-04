@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/daltonlarsonucf/simon-asks/static/css/main.d1b05096.chunk.css",
+    "main.js": "/daltonlarsonucf/simon-asks/static/js/main.8df713ce.chunk.js",
+    "main.js.map": "/daltonlarsonucf/simon-asks/static/js/main.8df713ce.chunk.js.map",
+    "runtime-main.js": "/daltonlarsonucf/simon-asks/static/js/runtime-main.794bd381.js",
+    "runtime-main.js.map": "/daltonlarsonucf/simon-asks/static/js/runtime-main.794bd381.js.map",
+    "static/js/2.7acc7c00.chunk.js": "/daltonlarsonucf/simon-asks/static/js/2.7acc7c00.chunk.js",
+    "static/js/2.7acc7c00.chunk.js.map": "/daltonlarsonucf/simon-asks/static/js/2.7acc7c00.chunk.js.map",
+    "index.html": "/daltonlarsonucf/simon-asks/index.html",
+    "precache-manifest.c662c2893967bc28625c46656ec44fe6.js": "/daltonlarsonucf/simon-asks/precache-manifest.c662c2893967bc28625c46656ec44fe6.js",
+    "service-worker.js": "/daltonlarsonucf/simon-asks/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/daltonlarsonucf/simon-asks/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.7acc7c00.chunk.js.LICENSE.txt": "/daltonlarsonucf/simon-asks/static/js/2.7acc7c00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.794bd381.js",
+    "static/js/2.7acc7c00.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.8df713ce.chunk.js"
+  ]
+}
